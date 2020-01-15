@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package misegundarama;
 
 /**
@@ -16,6 +11,11 @@ public class MiSegundaRama {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+   
+    System.out.println("Venga otra vez lo de siempre, que coñazo");
+        System.out.println("Vuelvo a repetir esta vaina :)");
+    
+    
     }
     
 }
